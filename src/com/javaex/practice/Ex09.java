@@ -25,7 +25,7 @@ public class Ex09 {
 		}
 		
 		
-		if (large/small==0) {
+		if (large%small==0) {
 			yesno = " 입니다.";
 		} else {
 			yesno = " 아닙니다.";
